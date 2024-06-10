@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btreg_usuario" type="id" />
+    <item name="btlogin" type="id" />
+    <item name="btlimpaus" type="id" />
+    <item name="btcadastrar_us" type="id" />
+    <item name="usnome" type="id" />
+    <item name="ussenha" type="id" />
+    <item name="editNome" type="id" />
+    <item name="editQuantidade" type="id" />
+    <item name="btnConfirmar" type="id" />
+    <item name="main" type="id" />
+    <item name="btnUpdateProduct" type="id" />
+</resources>
